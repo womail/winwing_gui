@@ -85,3 +85,7 @@ A: Verify X-Plane is running and UDP port 49000 is not blocked by firewall.
 
 **Q: The display shows dashes (---)**
 A: This indicates no data is being received from X-Plane. Check your network connection.
+
+## Testing
+This was test on a Manjaro Linux system. 
+The original FCU code was modified to fix errors. Pulling the original code **May** break the app.
