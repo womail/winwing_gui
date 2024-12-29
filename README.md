@@ -1,6 +1,8 @@
 # WinWing FCU Controller GUI
 
-A modern graphical interface for controlling WinWing FCU/EFIS panels with X-Plane flight simulator.
+A modern graphical interface for controlling WinWing FCU panel with X-Plane flight simulator.
+This repository contains a changed FCU script to run on my system (Manjaro) and a GUI to start the FCU software and display basic debugging information. 
+To use this you will need to pull the original code from https://github.com/schenlap/winwing_fcu
 
 ## Features
 
@@ -73,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For bugs and feature requests, please [open an issue](https://github.com/yourusername/winwing-fcu-gui/issues) on GitHub.
+For bugs and feature requests, please [open an issue](https://github.com/womail/winwing-fcu-gui/issues) on GitHub.
 
 ## FAQ
 
